@@ -1,11 +1,7 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 title: Stage informatique
 description: Ceci est le site GitHub Pages décrivant mon stage en informatique
 
-navigation:
-- text: Accueil
-  internal: true
-  url: ./
-- text: Toto
-  internal: true
-  url: toto
+---
+
+[Accueil](index.html) | [Toto](toto.html)
