@@ -1,4 +1,3 @@
 # Mon stage en informatique
-Il est vraiment trop cool ce stage.
+Le premier de ma carrière 
 
-ashdskhdskhfkysdhfgksdyh
