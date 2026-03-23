@@ -8,6 +8,4 @@ nav_order: 2
 
 ### Vous trouverez tous ici
 
----
- [Journal de Bord](premierjour.html)
----
+ [Journal de Bord](premierjour.html).
