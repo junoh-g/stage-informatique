@@ -11,4 +11,3 @@ Le premier de ma carrière
 >>###### *réparation*: c'est leur manière de dire punition 
 
 ## Git
-Mon travail sur git est disponible dans [Ma super catégorie Git](toto.md)
