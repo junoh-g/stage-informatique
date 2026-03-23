@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 title: Stage informatique
 description: Ceci est le site GitHub Pages décrivant mon stage en informatique
-
-header_pages:
-  - index.md
-  - toto.md
+plugins:
+  - jekyll-remote-theme
+color_scheme: dark
+footer_content: Made by Jun-Oh
