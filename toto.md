@@ -13,7 +13,7 @@ Ceci est la page toto
 ## Commit
 > C'est quoi du Git ?
 
-C'est un système de gestion de versions décentralisé et gratuit. Ça sert à créer des logiciels, des applications ou des sites.
+C'est un système de gestion de versions décentralisé et gratuit. Cela sert à créer des logiciels, des applications ou des sites.
 
 > C'est quoi un commit dans Git ?
 
