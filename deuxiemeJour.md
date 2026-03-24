@@ -2,7 +2,7 @@
 layout: default
 title: Deuxième jour
 nav_order: 2
-parent: Info
+parent: Journal de bord
 ---
 
 > # Deuxième jour

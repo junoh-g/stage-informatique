@@ -2,7 +2,7 @@
 layout: default
 title: Premier jour
 nav_order: 1
-parent: Info
+parent: Journal de bord
 ---
 
 > # Premier jour.

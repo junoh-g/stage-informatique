@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Journal de bord
-nav_order: 4
+nav_order: 1
+parent: Info
 ---
 
 > # Journal de bord
