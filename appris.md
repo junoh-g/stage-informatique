@@ -10,14 +10,14 @@ nav_order: 2
 
  >J'ai appris à utiliser du markdown. C'est un langage qu'on utilise avec de symbole simple pour écrire le texte sur les sites wed
  
-  >>Exemple:
->>>  ```
-    # Titre 
-    ## Sous-Titre
-    ### Petit Titre 
-    **gras**
-    *italique*
-    ```
+>>    Exemple:
+>>  ```
+     # Titre 
+     ## Sous-Titre
+     ### Petit Titre 
+     **gras**
+     *italique*
+     ```
 
 # Le monde professionnel.
 
