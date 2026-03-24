@@ -19,8 +19,12 @@ C'est un système de gestion de versions décentralisé et gratuit. Cela sert à
 > C'est quoi un commit dans Git ?
   
   ```
+  git checkout -b new-branch
   git add .
   git commit -m "Mon message"
+  git push origin new-branch
+  git checkout main
+  git pull
   ```
 
   
