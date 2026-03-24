@@ -18,6 +18,7 @@ C'est un système de gestion de versions décentralisé et gratuit. Cela sert à
 
 > C'est quoi un commit dans Git ?
 >>```
+  
   ```
   git add .
   git commit -m "Mon message"
