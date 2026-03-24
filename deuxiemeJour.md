@@ -6,4 +6,4 @@ parent: Journal de bord
 ---
 
 > # Deuxième jour
-> ### La journée commence par un bon croissant avec un pain au chocolat. Après tout cela, je suis allé à une réunion avec toute les parsonnes de l'équipe 
+> ### La journée commence par un bon croissant avec un pain au chocolat. Après tout cela je suis allé à une réunion avec toute les parsonnes de l'équipe
