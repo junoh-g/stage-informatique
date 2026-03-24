@@ -17,7 +17,6 @@ C'est un système de gestion de versions décentralisé et gratuit. Cela sert à
 ![Git](https://avatars.githubusercontent.com/u/18133?s=200&v=4)
 
 > C'est quoi un commit dans Git ?
->>```
   
   ```
   git add .
