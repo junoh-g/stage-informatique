@@ -24,7 +24,7 @@ C'est un système de gestion de versions décentralisé et gratuit. Cela sert à
   git commit -m "Mon message"
   git push origin new-branch
   git checkout main 
-  git pull
+  git pull 
   ```
 
   
