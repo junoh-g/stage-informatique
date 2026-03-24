@@ -3,9 +3,8 @@ layout: default
 title: Info
 nav_order: 3
 ---
-# Toto
-## Sous-toto
-Ceci est la page toto
+# C'est quoi le Git
+
 
 ---
 

@@ -1,11 +1,19 @@
 ---
 layout: default
-title: Menu
+title: Appris
 nav_order: 2
 ---
-# Menu
+# Appris
 
 
-### Vous trouverez tous ici
+## Vous trouverez tous ici.
 
- [Journal de Bord](premierjour.html).
+ ### J'ai appris à utiliser du markdown. C'est un langage qu'on utilise avec de symbole simple pour écrire le texte sur les sites wed
+ ### Exemple:
+```
+ # Titre 
+ ## Sous-Titre
+ ### Petit Titre 
+*gras*
+**italique**
+```
