@@ -8,16 +8,16 @@ nav_order: 2
 
 ## Vous trouverez tous ici.
 
- >J'ai appris à utiliser du markdown. C'est un langage qu'on utilise avec de symbole simple pour écrire le texte sur les sites wed
- 
+>J'ai appris à utiliser du markdown. C'est un langage qu'on utilise avec de symbole simple pour écrire le texte sur les sites wed
+>
 >>    Exemple:
->>  ```
-     # Titre 
-     ## Sous-Titre
-     ### Petit Titre 
-     **gras**
-     *italique*
-     ```
+```
+# Titre 
+## Sous-Titre
+### Petit Titre 
+**gras**
+*italique*
+```
 
 # Le monde professionnel.
 
